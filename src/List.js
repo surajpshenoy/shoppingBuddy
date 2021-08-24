@@ -3,7 +3,7 @@ import { FaEdit, FaTrash } from 'react-icons/fa'
 
 const List = () => {
 return (
-    <h4>List Component</h4>
+    <h3>List Component</h3>
 );
 }
 
