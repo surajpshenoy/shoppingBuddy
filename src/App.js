@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import List from "./List"
 
 function App() {
   const [name, setName] = useState();
@@ -10,7 +11,7 @@ function App() {
   return (
     <section className="section-center">
       <div className="grocery-container">
-     
+        <List/>
       </div>
       
 
